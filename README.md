@@ -125,11 +125,3 @@ GET /usuario/carteira
 Authorization: Bearer {token_usuario}
 ```
 > Retorna o saldo atual disponível para o usuário autenticado.
-
-## Contribuição
-
-Contribuições são bem-vindas! Abra uma issue ou envie um pull request para sugerir melhorias ou corrigir problemas.
-
-## Licença
-
-Este projeto está licenciado sob os termos da [MIT License](LICENSE).
