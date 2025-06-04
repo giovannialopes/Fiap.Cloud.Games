@@ -140,7 +140,7 @@ using (var scope = app.Services.CreateScope()) {
     if (!dbContext.USERS.Any()) {
         var usuarioInicial = new PerfilEntity {
             Nome = "Admin",
-            Email = "admin@teste.com",
+            Email = "admin@fcg.com",
             SenhaHash = hash,
             Perfil = PerfilEnum.Administrador,
             Habilitado = 1,
